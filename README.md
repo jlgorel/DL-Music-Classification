@@ -1,3 +1,5 @@
+NOTE: When intalling on the Intel DevCloud, please use: pipinstall (package name) --user
+
 We're working on a neural network that will learn to classify music between very different genres
 
 We used the Free Music Archive dataset - which can be found at https://github.com/mdeff/fma.
