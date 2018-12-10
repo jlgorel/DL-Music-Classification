@@ -1,6 +1,6 @@
 NOTE: When intalling on the Intel DevCloud, please use: pipinstall (package name) --user
 
-NOTE: If just testing the model on the test data, put the model into the same folder of the FullSongTest notebook and then 
+NOTE: If just testing the model on the test data, put the model into the same folder of the FullSongTest notebook.  Create a folder called "Database" in the same folder of the FullSongTest notebook, and place the "Test Data" folder within it.
 
 We're working on a neural network that will learn to classify music between very different genres
 
